@@ -23,7 +23,7 @@ A responsive and interactive web application built with React, TypeScript, and C
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/covid-dashboard.git
+git clone https://github.com/Jyothikatlaganti/covid-dashboard.git
 cd covid-dashboard
 ```
 
